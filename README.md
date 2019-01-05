@@ -1,2 +1,2 @@
 This is a test repo
-The conflict text
+2nd line - The conflict text
